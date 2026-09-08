@@ -7,7 +7,35 @@ Here is the example to replicate:
 
 ![Markdown example](https://github.com/TUDelft-MUDE/source-files/raw/main/file/markdown_example.png)
 
-% WRITE YOUR MARKDOWN HERE
+# My First Markdown Document
+this is my introduction to *markdown formatting*. I am learning to use various formatting options so that I can style my reports. 
+
+**Skills I'm practicing:**
+1. Making text bold and italic 
+2. Creating ordered and unordered lists
+3. Adding code snippets
+4. Creating headers and subheaders
+
+**important programming concepts**
+- Variables store data values
+- Functions are reusable blocks of code
+- `print()` is a build in python function
+- Comments help explain code to others 
+
+Here is a simple python example 
+
+```python 
+# this is a comment 
+name = "MUDE student"
+age = 20
+print(f"Hello, my name is {name} and I am {age} years old.")
+```
+
+**usefull resources** 
+- [Markdown guidance]( https://www.markdownguide.org/basic-syntax/)
+
+*Remember: Practice makes perfect!*
+
 
 
 ## Task 2 Open rendered markdown preview
@@ -20,7 +48,10 @@ Now try to replicate the following markdown table (you can copy-paste the star e
 
 ![Markdown example](https://github.com/TUDelft-MUDE/source-files/raw/main/file/markdown_table.png)
 
-% WRITE YOUR MARKDOWN HERE
-
-
+|**language**|**Difficulty**|**Use case**|**Popularity**|
+|:-|:-|:-|:-|
+|Python|Beginner|Data Science, Web Dev|⭐⭐⭐⭐⭐|
+|JavaScript|Beginner|Web Development|⭐⭐⭐⭐⭐|
+|C++|Advanced|System Programming|⭐⭐⭐|
+|R|Intermediate|Statistics, Data Analysis|⭐⭐⭐|
 > By Tom van Woudenberg, Delft University of Technology. CC BY 4.0, more info [on the Credits page of Workbook](https://mude.citg.tudelft.nl/workbook-2025/credits.html).
